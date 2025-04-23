@@ -36,8 +36,8 @@ lead-manager/
 ### 1. Clone the Repo
 
 ```bash
-git clone https://github.com/yourusername/lead-manager.git
-cd lead-manager
+git clone https://github.com/adujoseph/LeadManager.git
+cd LeadManager
 ```
 
 ### 2. Backend Setup
@@ -138,6 +138,6 @@ Each folder uses its own `.env`:
 
 ## 📮 Contact
 
-Made by [Your Name](https://github.com/yourusername)
+Made by [Joseph Adu](https://github.com/adujoseph)
 
 ---
